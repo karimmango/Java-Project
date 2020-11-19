@@ -1,5 +1,7 @@
 # Java-Project
-#Doctor Appointment Android Application
+# Doctor Appointment Android Application
+
+Group members: Karim Mango, Sarah Hasan, Parshad Barot
 
 We are making a Android app that allows patients to schedule appointments with doctors. 
 
